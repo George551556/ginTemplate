@@ -11,4 +11,4 @@ gin框架模板
    go mod init [模块名] 
 
    go get -u github.com/gin-gonic/gin
-hello xinxin's server
+
